@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "A Strapi Default App",
   "scripts": {
-    "develop": "strapi develop",
+    "dev": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
@@ -23,7 +23,7 @@
     "uuid": "ee4ab803-af64-45b4-8c77-8ae0ecf59717"
   },
   "engines": {
-    "node": ">=16.0.0 <=20.x.x",
+    "node": "16.20.2",
     "npm": "9.6.3"
   },
   "license": "MIT"
